@@ -25,8 +25,8 @@ public class Database {
         return connection;
     }
 
-    private Product returnProduct(int id, String name, int quantity) {
-        return null;
-    }
+    //private Product returnProduct(int id, String name, int quantity) {
+      //  return null;
+   // }
 
 }
