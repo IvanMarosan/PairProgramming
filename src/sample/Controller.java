@@ -16,9 +16,6 @@ public class Controller implements Initializable {
     @FXML
     private TextArea textArea;
 
-
-
-
     @FXML
     void buyItems(ActionEvent event) {
 
